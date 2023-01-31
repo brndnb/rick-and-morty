@@ -1,0 +1,29 @@
+.character-card{
+    width: 250px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    box-shadow: 7px 8px 13px -4px rgba(0,0,0,0.47);
+    -webkit-box-shadow: 7px 8px 13px -4px rgba(0,0,0,0.47);
+    -moz-box-shadow: 7px 8px 13px -4px rgba(0,0,0,0.47);
+}
+
+.character-card img{
+    width: 100%;
+    margin-bottom: 10px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.character-card button{
+    margin-top:10px;
+    border:none;
+    padding:8px 16px;
+    border-radius: 8px;  
+    background-color: rgb(102, 92, 171);
+    color:white;
+    cursor:pointer;
+}
