@@ -1,0 +1,22 @@
+.details-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+    width: 80%;
+    margin: 10px auto;
+    -webkit-box-shadow: 3px -1px 26px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px -1px 26px 0px rgba(0,0,0,0.75);
+    box-shadow: 3px -1px 26px 0px rgba(0,0,0,0.75);
+    border-radius: 8px;
+}
+
+.details-container img{
+    width: 40%;
+    border-radius: 8px;
+}
+
+.char-info{
+    
+    line-height: 2;
+}
