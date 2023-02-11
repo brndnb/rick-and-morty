@@ -2,3 +2,14 @@
     display: flex;
     flex-wrap: wrap;
 }
+
+.homepage-container {
+    color: black;
+}
+
+.home-dark {
+   background-color: black;
+   color: white;
+
+}
+

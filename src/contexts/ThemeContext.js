@@ -7,7 +7,7 @@ export const ThemeContext = createContext();
 
 export default function ThemeContextProvider(props) {
     //create my global state
-    const [darkMode, setDarkMode] = useState(false)
+    const [darkMode, setDarkMode] = useState(true)
     useEffect(
 
         ()=>{

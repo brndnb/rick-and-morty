@@ -1,0 +1,19 @@
+.about-container {
+    color: black;
+    padding: 20px;
+}
+
+.about-dark {
+   background-color: black;
+   color: white;
+
+}
+
+.about-banner {
+    width: 100%
+}
+
+.about-container p {
+    margin-top: 10px;
+    line-height: 1.6;
+}
